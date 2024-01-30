@@ -53,6 +53,17 @@ INSERT INTO customer VALUES(309,'Shruti','Ahmedabad','A',35);
 INSERT INTO customer VALUES(230,'Harimati','Kashmir','B',45);
 INSERT INTO customer VALUES(219,'Hardik','Anjar','A',20);
 
+insert into customer values(302 , 'Nick Rimando'   , 'New York'   ,   'A' ,        15);
+insert into customer values(307 , 'Brad Davis'     , 'New York'   ,   'B' ,        15);
+insert into customer values(305 , 'Graham Zusi'    , 'California' ,   'B',        29);
+insert into customer values(308 , 'Julian Green'   , 'London'     ,   'C' ,        17);
+insert into customer values(304 , 'Fabian Johnson' , 'Paris'      ,  'C' ,        65);
+insert into customer values(301 , 'Geoff Cameron'  , 'Berlin'     ,   'A' ,        33);
+insert into customer values(303 , 'Jozy Altidor'   , 'Moscow'     ,   'B' ,        47);
+insert into customer values(310 , 'Brad Guzan'     , 'London'     ,   'D' ,        65);
+insert into customer values(300 , 'Brad Guzan'     , 'London'     ,  null ,      15);
+
+
 
 INSERT INTO orders VALUES(15,1200,'2020-08-25',501,20);
 INSERT INTO orders VALUES(12,5100,'2020-09-25',309,35);
